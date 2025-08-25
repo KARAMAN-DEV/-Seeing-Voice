@@ -49,8 +49,7 @@ app.*.map.json
 /ios/Flutter/Generated.xcconfig
 /ios/Runner/GeneratedPluginRegistrant.*
 
-# Keep assets folder
-!assets/
+
 
 # Environment / API Keys
 *.env
